@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @niaanderson
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
+- 👋 Hi, I’m @niaanderson
 - 👀 I’m interested in SWE opportunities that place me in a fun, collaborative, and ambitious work environment. I want to constantly learn more and better my craft alongside supportive and driven people who share the same passions as me and push me to new limits.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, SQL, & Python
 - 💞️ I’m looking to collaborate on high impact projects.
